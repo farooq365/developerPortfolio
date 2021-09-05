@@ -1,0 +1,12 @@
+#content-list {
+	width: 80%;
+	margin: 0 auto;
+}
+#content-list ol li {
+	margin-top: 5px;
+	padding: 2%;
+	font-size: large;
+}
+#content-list ol li a {
+	text-decoration: none;
+}

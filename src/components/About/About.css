@@ -1,0 +1,66 @@
+body {
+    background-color: #050C16;
+    color: lightgrey;
+}
+.about-area h1 {
+    letter-spacing: 5px;
+}
+.about-area h2 {
+    color: #0578FF;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+.social-link a {
+    text-decoration: none;
+    font-size: 1.2em;
+    padding: 7px;
+}
+.color-highlight {
+    color: #0578FF;
+}
+.summary-list {
+    margin-top: 30px;
+}
+.summary-list ul li {
+    font-size: 1.2em;
+    text-align: justify;
+    text-justify: inter-word;
+    list-style-type: none;
+}
+.summary-list ul li::before {
+    content: "👉 ";
+    font-size: 1.2em;
+}
+.summary-list ul li a {
+    text-decoration: none;
+    color: lightgray;
+}
+.contact {
+    margin-top: 36px;
+    padding: 1%;
+    margin-bottom: 16px;
+}
+.contact a {
+    text-decoration: none;
+    color: #0578FF;
+}
+.color-highlight:hover {
+    color:#1CC7C1;
+}
+.profile-img {
+    width: 50%;
+    border: 3px solid lightblue;
+    padding: 5px;
+    background-color: #FEE15E;
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+@media only screen and (max-width: 600px) {
+    .profile-img {
+        margin-top: 80px;
+    }
+    .summary-list ul li {
+        text-align: left;
+    }
+}

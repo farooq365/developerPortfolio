@@ -1,0 +1,15 @@
+.footer {
+    margin: 0;
+    height: auto;
+    padding: 1%;
+}
+.footer ul li {
+    list-style-type: none;
+}
+.footer a {
+    text-decoration: none;
+    color: lightgray;
+}
+.footer-bg {
+    background-color: #4C495D;
+}

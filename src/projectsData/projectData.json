@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Jibon Hisab App",
+        "img": "https://www.advisoryhq.com/wp-content/uploads/2017/02/Life-Expectancy-Calculator-min.png",
+        "description1": "User save his daily activities.",
+        "description2": "User see old day's activity by Search",
+        "live": "https://jibon.games/",
+        "github": "https://github.com/coderMojnu/life-client"
+    },
+    {
+        "name": "Bithy Shop",
+        "img": "https://i.ibb.co/D5PKq4G/ecommerce.png",
+        "description1": "Online product delivery system app",
+        "description2": "Admin can manage product",
+        "live": "https://bithe-shop.web.app/",
+        "github": "https://github.com/coderMojnu/bithe-shop-client"
+    },
+    {
+        "name": "Tram Tickets",
+        "img": "https://i.ibb.co/HgMSc8s/tram-tickets.png",
+        "description1": "It's online booking system process",
+        "description2": "User must login for order her tickets",
+        "live": "https://tram-tickets.web.app",
+        "github": "https://github.com/coderMojnu/tram-tickets/tree/main"
+    },
+    {
+        "name": "Build Your Team",
+        "img": "https://i.ibb.co/HgMSc8s/tram-tickets.png",
+        "description1": "User can make his favorite team",
+        "description2": "Every player has a fixed price to buy",
+        "live": "https://jolly-shaw-4c2a36.netlify.app/",
+        "github": "https://github.com/coderMojnu/build-your-team"
+    },
+    {
+        "name": "Team Tracker",
+        "img": "https://i.ibb.co/HgMSc8s/tram-tickets.png",
+        "description1": "User can track your his favorite team",
+        "description2": "Know team details, team news",
+        "live": "https://stupefied-archimedes-363c75.netlify.app/",
+        "github": "https://github.com/coderMojnu/team-tracker"
+    },
+    {
+        "name": "Country Details",
+        "img": "https://i.ibb.co/wRHMjMp/country-Details.png",
+        "description1": "User can find specific country details",
+        "description2": "Search by first letter or country name",
+        "live": "https://agitated-tereshkova-410452.netlify.app/",
+        "github": "https://github.com/coderMojnu/countryDetails"
+    }
+]
