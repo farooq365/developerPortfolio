@@ -3,7 +3,7 @@ import Footer from '../Shared/Footer/Footer';
 
 const Skills = () => {
     return (
-        <div>
+        <div className="mb-3">
             <div className="container" style={{ marginTop: '30px', color: 'black' }}>
             <div className="row d-flex justify-content-around">
                 <div className="col-md-4">
